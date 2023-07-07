@@ -1,0 +1,7 @@
+pip install tk
+pip install PyMySQL
+pip install opencv-python
+pip install cmake
+pip install dlib
+pip install face-recognition
+pip install playsound
